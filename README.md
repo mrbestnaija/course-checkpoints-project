@@ -1,8 +1,9 @@
-# Lesson 7: Tools for Deep Learning
+#  Tools for Deep Learning
 
 ## Setting up the project
 
-- Make a virtual environment: `python3 -m venv .venv`
+- clone project from `git clone https://github.com/mrbestnaija/course-checkpoints-project`
+- Make a virtual environment: `python3 -m venv .venv` (usually the virtual environment is installed already if this repository is cloned)
 - Activate virtual environment: `source .venv/bin/activate`
 - Install the requirements: `pip install -r requirements.txt`
 - To get the data to work with this project, download this and unzip in the root of the project: https://download.pytorch.org/tutorial/hymenoptera_data.zip
